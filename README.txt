@@ -1,0 +1,1 @@
+Contained in this repository is one of the programs I wrote during my 2018 REU in combinatorics and complexity at Boise State University. It verifies one of our conjectures for our theoretical framework.
